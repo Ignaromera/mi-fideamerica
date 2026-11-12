@@ -1,0 +1,175 @@
+{
+  "updated": "2026-11-11",
+  "source": "https://fideamerica.net/calendario/",
+  "events": [
+    {
+      "id": "naycc-2026",
+      "type": "tournament",
+      "title": {"es": "Campeonato Norteamericano de la Juventud 2026", "en": "North American Youth Chess Championship 2026"},
+      "start": "2026-11-10", "end": "2026-11-17",
+      "city": {"es": "Ciudad de México, México", "en": "Mexico City, Mexico"},
+      "venue": "Hotel del Prado – Av. Marina Nacional 399, Verónica Anzures, Miguel Hidalgo, CDMX",
+      "region": "NOR",
+      "categories": [
+        {"name": "U8",  "born": 2018, "sex": "open"}, {"name": "U8 Girls",  "born": 2018, "sex": "F"},
+        {"name": "U10", "born": 2016, "sex": "open"}, {"name": "U10 Girls", "born": 2016, "sex": "F"},
+        {"name": "U12", "born": 2014, "sex": "open"}, {"name": "U12 Girls", "born": 2014, "sex": "F"},
+        {"name": "U14", "born": 2012, "sex": "open"}, {"name": "U14 Girls", "born": 2012, "sex": "F"},
+        {"name": "U16", "born": 2010, "sex": "open"}, {"name": "U16 Girls", "born": 2010, "sex": "F"},
+        {"name": "U18", "born": 2008, "sex": "open"}, {"name": "U18 Girls", "born": 2008, "sex": "F"}
+      ],
+      "ratingMin": null, "ratingMax": null,
+      "rhythm": {"es": "Clásico 90 min + 30 s por jugada. Además torneos Rápido (14/11) y Blitz (16/11), válidos para Elo FIDE.", "en": "Classical 90 min + 30 s per move. Also Rapid (14 Nov) and Blitz (16 Nov) events, FIDE rated."},
+      "format": {"es": "Sistema suizo", "en": "Swiss system"},
+      "links": [
+        {"label": {"es": "Página del evento", "en": "Event page"}, "url": "https://fideamerica.net/north-american-youth-chess-championship-2026/"},
+        {"label": {"es": "Convocatoria (PDF, inglés)", "en": "Invitation (PDF)"}, "url": "https://fideamerica.net/wp-content/uploads/2026/05/Convocatoria-NAYCC-2026-Ingles-1.pdf"}
+      ],
+      "deadline": "2026-09-10",
+      "notes": {"es": "Abierto a jugadores de Canadá, Estados Unidos y México, sin Elo mínimo. Plazo de inscripción de jugadores oficiales: 10/9/2026. El evento ya está en curso.", "en": "Open to players from Canada, USA and Mexico, no minimum rating. Official-player deadline: 10 Sep 2026. The event is already under way."}
+    },
+    {
+      "id": "wjc-u20-2026",
+      "type": "tournament",
+      "title": {"es": "Campeonato Mundial Juvenil Sub-20 FIDE 2026", "en": "FIDE World Junior U20 Championships 2026"},
+      "start": "2026-11-17", "end": "2026-11-28",
+      "city": {"es": "Caracas, Venezuela", "en": "Caracas, Venezuela"},
+      "venue": "Eurobuilding Hotel & Suites Caracas – C. La Guairita, Chuao, Baruta, Miranda",
+      "region": "WORLD",
+      "categories": [
+        {"name": "Absoluto / Open", "born": 2006, "sex": "open"},
+        {"name": "Femenino / Girls", "born": 2006, "sex": "F"}
+      ],
+      "ratingMin": null, "ratingMax": null,
+      "rhythm": {"es": "90 min las primeras 40 jugadas + 30 min, con 30 s de incremento desde la jugada 1.", "en": "90 min for 40 moves + 30 min, with 30 s increment from move 1."},
+      "format": {"es": "Sistema suizo, 11 rondas", "en": "Swiss system, 11 rounds"},
+      "links": [
+        {"label": {"es": "Sitio oficial", "en": "Official website"}, "url": "https://fva.org.ve/worldchess-u20/info/reglamento"},
+        {"label": {"es": "Invitación FIDE (PDF)", "en": "FIDE invitation (PDF)"}, "url": "https://www.fide.com/wp-content/uploads/World_Junior_U20_2026_Venezuela.pdf"},
+        {"label": {"es": "Calendario FIDE", "en": "FIDE calendar"}, "url": "https://calendar.fide.com/calendar.php?id=5080"}
+      ],
+      "deadline": "2026-10-30",
+      "notes": {"es": "Evento mundial de FIDE incluido en el calendario de FIDE América. Nacidos desde el 1/1/2006. Cada federación tiene 1 invitado por categoría y puede sumar jugadores adicionales. Plazo de inscripción: 30/10/2026 (reglamento v3).", "en": "FIDE world event listed in the FIDE América calendar. Born on or after 1 Jan 2006. One invited player per federation per category, plus additional players. Registration deadline: 30 Oct 2026 (regulations v3)."}
+    },
+    {
+      "id": "cac-u7u17-2026",
+      "type": "tournament",
+      "title": {"es": "IV Campeonato Centroamericano y del Caribe U7–U17 (Escolar) 2026", "en": "IV Central American & Caribbean U7–U17 Championship 2026"},
+      "start": "2026-12-01", "end": "2026-12-07",
+      "city": {"es": "Comayagua, Honduras", "en": "Comayagua, Honduras"},
+      "venue": "Hotel oficial: Hotel Antigua Comayagua · Sala de juego: Gimnasio de la Escuela Bilingüe Honduras",
+      "region": "CAC",
+      "categories": [
+        {"name": "Sub-07", "born": 2019, "sex": "open"}, {"name": "Sub-07 Femenino", "born": 2019, "sex": "F"},
+        {"name": "Sub-09", "born": 2017, "sex": "open"}, {"name": "Sub-09 Femenino", "born": 2017, "sex": "F"},
+        {"name": "Sub-11", "born": 2015, "sex": "open"}, {"name": "Sub-11 Femenino", "born": 2015, "sex": "F"},
+        {"name": "Sub-13", "born": 2013, "sex": "open"}, {"name": "Sub-13 Femenino", "born": 2013, "sex": "F"},
+        {"name": "Sub-15", "born": 2011, "sex": "open"}, {"name": "Sub-15 Femenino", "born": 2011, "sex": "F"},
+        {"name": "Sub-17", "born": 2009, "sex": "open"}, {"name": "Sub-17 Femenino", "born": 2009, "sex": "F"}
+      ],
+      "ratingMin": null, "ratingMax": null,
+      "rhythm": {"es": "60 min + 30 s por jugada (según la invitación; la página del evento dice 90 + 30). Blitz 3 + 2 el 6/12.", "en": "60 min + 30 s per move (per the invitation; the event page says 90 + 30). Blitz 3 + 2 on 6 Dec."},
+      "format": {"es": "Sistema suizo, 9 rondas", "en": "Swiss system, 9 rounds"},
+      "links": [
+        {"label": {"es": "Página del evento", "en": "Event page"}, "url": "https://fideamerica.net/iv-campeonato-escolar-de-ajedrez-centroamericano-y-del-caribe-absoluto-y-femenino-2026-comayagua-honduras/"},
+        {"label": {"es": "Invitación y reglamento (PDF)", "en": "Invitation (PDF, Spanish)"}, "url": "https://fideamerica.net/wp-content/uploads/2026/10/IV_Campeonato_Centroamericano_y_del_Caribe_U7-U17_de_Ajedrez_2026_Invitacion_y_Reglamento-1.pdf"},
+        {"label": {"es": "Invitation and Regulations (PDF, inglés)", "en": "Invitation and Regulations (PDF)"}, "url": "https://fideamerica.net/wp-content/uploads/2026/10/IV_Central_American_and_Caribbean_U7-U17_Chess_Championship_2026_Invitation_and_Regulations.pdf"}
+      ],
+      "deadline": "2026-11-08",
+      "notes": {"es": "Abierto a federaciones de Centroamérica y el Caribe, sin límite de jugadores por federación. Cierre de inscripciones: 8/11/2026, vía las federaciones nacionales.", "en": "Open to Central American and Caribbean federations, no limit of players per federation. Registration closed 8 Nov 2026, through national federations."}
+    },
+    {
+      "id": "sudam-juventud-2026",
+      "type": "tournament",
+      "title": {"es": "XXII Festival Sudamericano de Ajedrez de la Juventud 2026", "en": "XXII South American Youth Chess Festival 2026"},
+      "start": "2026-12-02", "end": "2026-12-09",
+      "city": {"es": "Santiago, Chile", "en": "Santiago, Chile"},
+      "venue": "Polideportivo Estadio Nacional – Av. Pedro de Valdivia 4801, Ñuñoa (Metro Estadio Nacional, L6)",
+      "region": "SUD",
+      "categories": [
+        {"name": "Sub-08", "born": 2018, "sex": "open"}, {"name": "Sub-08 Femenino", "born": 2018, "sex": "F"},
+        {"name": "Sub-10", "born": 2016, "sex": "open"}, {"name": "Sub-10 Femenino", "born": 2016, "sex": "F"},
+        {"name": "Sub-12", "born": 2014, "sex": "open"}, {"name": "Sub-12 Femenino", "born": 2014, "sex": "F"},
+        {"name": "Sub-14", "born": 2012, "sex": "open"}, {"name": "Sub-14 Femenino", "born": 2012, "sex": "F"},
+        {"name": "Sub-16", "born": 2010, "sex": "open"}, {"name": "Sub-16 Femenino", "born": 2010, "sex": "F"},
+        {"name": "Sub-18", "born": 2008, "sex": "open"}, {"name": "Sub-18 Femenino", "born": 2008, "sex": "F"}
+      ],
+      "ratingMin": null, "ratingMax": null,
+      "rhythm": {"es": "90 min + 30 s por jugada.", "en": "90 min + 30 s per move."},
+      "format": {"es": "Sistema suizo, 9 rondas", "en": "Swiss system, 9 rounds"},
+      "links": [
+        {"label": {"es": "Página del evento", "en": "Event page"}, "url": "https://fideamerica.net/xxii-festival-sudamericano-de-ajedrez-de-la-juventud-2026/"},
+        {"label": {"es": "Bases (PDF)", "en": "Regulations (PDF, Spanish)"}, "url": "https://fideamerica.net/wp-content/uploads/2026/09/Sudamericano_de_Ajedrez_de_la_Juventud2026-Bases.pdf"}
+      ],
+      "deadline": "2026-11-15",
+      "notes": {"es": "Para jugadores de Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela. Las federaciones envían la planilla de inscripción hasta el 15/11/2026.", "en": "For players from Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay and Venezuela. Federations send the entry form by 15 Nov 2026."}
+    },
+    {
+      "id": "sudam-sub20-2026",
+      "type": "tournament",
+      "title": {"es": "XXI Campeonato Sudamericano de Ajedrez Sub-20", "en": "XXI South American U20 Chess Championship"},
+      "start": "2026-12-15", "end": "2026-12-20",
+      "city": {"es": "Santa Cruz de la Sierra, Bolivia", "en": "Santa Cruz de la Sierra, Bolivia"},
+      "venue": "Yotaú All Suites Hotel",
+      "region": "SUD",
+      "categories": [
+        {"name": "Absoluto", "born": 2006, "sex": "open"},
+        {"name": "Femenino", "born": 2006, "sex": "F"}
+      ],
+      "ratingMin": null, "ratingMax": null,
+      "rhythm": {"es": "90 min + 30 s por jugada. Blitz 3 + 2.", "en": "90 min + 30 s per move. Blitz 3 + 2."},
+      "format": {"es": "Sistema suizo, 9 rondas (o round robin según inscriptos)", "en": "Swiss system, 9 rounds (or round robin)"},
+      "links": [
+        {"label": {"es": "Página del evento", "en": "Event page"}, "url": "https://fideamerica.net/xxi-campeonato-sudamericano-de-ajedrez-sub-20/"},
+        {"label": {"es": "Convocatoria (PDF)", "en": "Invitation (PDF, Spanish)"}, "url": "https://fideamerica.net/wp-content/uploads/2026/08/Convocatoria-Sudamericano-Sub-20-del-2026-en-YOTAU-diciembre.pdf"}
+      ],
+      "deadline": null,
+      "notes": {"es": "Para ajedrecistas sudamericanos nacidos desde el 1/1/2006. La convocatoria PDF todavía menciona agosto; las fechas de diciembre salen del calendario y de la página del evento.", "en": "For South American players born on or after 1 Jan 2006. The PDF still mentions August; the December dates come from the calendar and event page."}
+    },
+    {
+      "id": "ejemplo-arbitros-2027",
+      "type": "seminar",
+      "example": true,
+      "title": {"es": "Seminario de Árbitros FIDE en línea (CCA)", "en": "Internet-based FIDE Arbiters' Seminar (CCA)"},
+      "start": "2027-02-19", "end": "2027-02-21",
+      "city": {"es": "En línea", "en": "Online"},
+      "venue": "Zoom",
+      "region": "ALL",
+      "audience": {"es": "Árbitros y aspirantes al título de Árbitro FIDE (FA)", "en": "Arbiters and FIDE Arbiter (FA) candidates"},
+      "rhythm": {"es": "3 jornadas + examen final", "en": "3 sessions + final exam"},
+      "format": {"es": "Seminario en línea, en español", "en": "Online seminar, in Spanish"},
+      "links": [{"label": {"es": "Seminarios de FIDE América", "en": "FIDE América seminars"}, "url": "https://fideamerica.net/seminarios/"}],
+      "notes": {"es": "Evento de ejemplo: hoy no hay seminarios futuros publicados en el calendario.", "en": "Example event: no upcoming seminars are currently published in the calendar."}
+    },
+    {
+      "id": "ejemplo-instructor-escolar-2027",
+      "type": "seminar",
+      "example": true,
+      "title": {"es": "Curso para el título de Instructor Escolar FIDE", "en": "FIDE School Instructor title course"},
+      "start": "2027-03-08", "end": "2027-03-26",
+      "city": {"es": "En línea", "en": "Online"},
+      "venue": "Zoom",
+      "region": "ALL",
+      "audience": {"es": "Docentes y entrenadores", "en": "Teachers and trainers"},
+      "rhythm": {"es": "Clases semanales", "en": "Weekly classes"},
+      "format": {"es": "Curso en línea", "en": "Online course"},
+      "links": [{"label": {"es": "Seminarios de FIDE América", "en": "FIDE América seminars"}, "url": "https://fideamerica.net/seminarios/"}],
+      "notes": {"es": "Evento de ejemplo, inspirado en cursos anteriores de FIDE América.", "en": "Example event, based on previous FIDE América courses."}
+    },
+    {
+      "id": "ejemplo-organizadores-2027",
+      "type": "seminar",
+      "example": true,
+      "title": {"es": "Seminario de Organizadores FIDE en línea", "en": "Online FIDE Organizers' Seminar"},
+      "start": "2027-04-16", "end": "2027-04-18",
+      "city": {"es": "En línea", "en": "Online"},
+      "venue": "Zoom",
+      "region": "ALL",
+      "audience": {"es": "Organizadores y dirigentes", "en": "Organizers and officials"},
+      "rhythm": {"es": "3 jornadas", "en": "3 sessions"},
+      "format": {"es": "Seminario en línea", "en": "Online seminar"},
+      "links": [{"label": {"es": "Seminarios de FIDE América", "en": "FIDE América seminars"}, "url": "https://fideamerica.net/seminarios/"}],
+      "notes": {"es": "Evento de ejemplo, inspirado en seminarios anteriores de FIDE América.", "en": "Example event, based on previous FIDE America seminars."}
+    }
+  ]
+}
